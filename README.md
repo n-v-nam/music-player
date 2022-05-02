@@ -1,3 +1,3 @@
 # music-player :fire:
 
-### Project to learn JS
+### Project to learn JS and CSS
